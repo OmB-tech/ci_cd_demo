@@ -20,7 +20,7 @@ client.connect(
 )
 
 command = """
-cd /home/ec2-user/aws-python-deployment-demo &&
+cd /home/ubutnu/ci_cd_demo &&
 git pull &&
 python3 app.py
 """
