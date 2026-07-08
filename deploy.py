@@ -20,7 +20,7 @@ client.connect(
 )
 
 command = """
-cd /home/ubutnu/ci_cd_demo &&
+cd /home/ubuntu/ci_cd_demo &&
 git pull &&
 python3 app.py
 """
